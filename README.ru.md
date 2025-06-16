@@ -15,7 +15,7 @@ GitHub Terminal Access Granted.</i></p>
 ▸ Программист с головой в коде и руками на клавиатуре  
 ▸ Живу за ПК. Работаю, думаю и отдыхаю — через экран  
 ▸ Цифровой минималист. Управляю данными и системами  
-▸ [`Моё резюме`](https://github.com/eelus1ve/resume.md)
+▸ [`Моё резюме`](https://github.com/eelus1ve/eelus1ve/blob/main/resume.ru.md)
 
 ---
 

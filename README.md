@@ -15,7 +15,7 @@ GitHub Terminal Access Granted.</i></p>
 ▸ A programmer with his head in the code and his hands on the keyboard  
 ▸ I live on a PC. I work, think and relax — through the screen  
 ▸ A digital minimalist. I manipulate data and systems.  
-▸ [`My Resume`](https://github.com/eelus1ve/resume.md)
+▸ [`My Resume`](https://github.com/eelus1ve/eelus1ve/blob/main/resume.md)
 
 ---
 

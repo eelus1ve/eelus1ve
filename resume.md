@@ -1,6 +1,6 @@
 ### 📄 Resume Summary
 
-[`Read this in Russian`](https://github.com/eelus1ve/resume.ru.md)
+[`Read this in Russian`](https://github.com/eelus1ve/eelus1ve/blob/main/resume.ru.md)
 
 ```vbnet
 Name: Darov Alexander Rostislavovich  

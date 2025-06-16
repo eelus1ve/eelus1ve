@@ -10,16 +10,16 @@ GitHub Terminal Access Granted.</i></p>
 
 ---
 
-### 👤 About me
+### 👤 Обо мне
 
-▸ A programmer with his head in the code and his hands on the keyboard  
-▸ I live on a PC. I work, think and relax — through the screen  
-▸ A digital minimalist. I manipulate data and systems.  
-▸ [`My Resume`](https://github.com/eelus1ve/resume.md)
+▸ Программист с головой в коде и руками на клавиатуре  
+▸ Живу за ПК. Работаю, думаю и отдыхаю — через экран  
+▸ Цифровой минималист. Управляю данными и системами  
+▸ [`Моё резюме`](https://github.com/eelus1ve/resume.md)
 
 ---
 
-### ⚙️ Technologies
+### ⚙️ Технологии
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,7 +30,7 @@ GitHub Terminal Access Granted.</i></p>
 
 ---
 
-### ⏱ Time in code (WakaTime)
+### ⏱ Время в коде (WakaTime)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eelus1ve&theme=graywhite&hide_border=true" />
@@ -38,7 +38,7 @@ GitHub Terminal Access Granted.</i></p>
 
 ---
 
-### 🔗 Contacts
+### 🔗 Контакты
 
 [![Discord](https://img.shields.io/badge/-Discord-000?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/466609421863354388)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=telegram&logoColor=white)](https://t.me/eelus1ve)

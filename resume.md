@@ -48,7 +48,7 @@ Other: VPN app development, CMS (WordPress, OcStore), PyQT, Bash
 ```sql
 Self-taught with 5+ years of practical experience.  
 Learned through real-world projects, open source, docs & courses.  
-Resources: Stepik, Coursera, YouTube, GitHub, technical articles.
+Resources: YouTube, GitHub, technical articles.
 ```
 
 ---

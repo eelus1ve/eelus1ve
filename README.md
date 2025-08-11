@@ -30,14 +30,6 @@ GitHub Terminal Access Granted.</i></p>
 
 ---
 
-### ⏱ Time in code (WakaTime)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eelus1ve&theme=graywhite&hide_border=true" />
-</p>
-
----
-
 ### 🔗 Contacts
 
 [![Discord](https://img.shields.io/badge/-Discord-000?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/466609421863354388)
